@@ -1,5 +1,5 @@
 ### WELCOME TO MY PAGE 👋👋👋
-My name is Phan Trong Kieu.<br>
+My name is Phan Trọng Kiều. I am currently a third-year student at the Posts and Telecommunications Institute of Technology, majoring in Software Engineering. I am interested in the following topics: software development, web development, and testing..<br>
 ## 📫 How to reach me: 
 
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/PhanTrongKieu1401/)
