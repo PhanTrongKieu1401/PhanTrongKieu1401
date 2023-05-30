@@ -8,7 +8,7 @@ My name is Phan Trọng Kiều. I am currently a third-year student at the Posts
 
 ![Kieu's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PhanTrongKieu1401&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
-<a href="https://github.com/uvipen/QuickDraw/">
+<a href="https://github.com/PhanTrongKieu1401/Restaurant-App/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=QuickDraw&theme=radical" />
 </a>   
