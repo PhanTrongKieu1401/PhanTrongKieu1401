@@ -3,7 +3,7 @@ My name is Phan Trọng Kiều. I am currently a third-year student at the Posts
 ## 📫 How to reach me: 
 
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/PhanTrongKieu1401/)
-[![Facebook](https://imgur.com/a/VIjHQX1)](https://www.facebook.com/kieu.phantrong/)
+[![Facebook](https://i.imgur.com/3wSuPjE.png) Facebook](https://www.facebook.com/kieu.phantrong/)
 
 
 
